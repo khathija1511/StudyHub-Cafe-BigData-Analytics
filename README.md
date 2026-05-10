@@ -57,3 +57,7 @@ MIT License
 - Login Interface
 - Booking System UI
 - Analytics Dashboard
+- ## Live Website
+
+Frontend Demo:
+https://khathija1511.github.io/StudyHub-Cafe-BigData-Analytics/frontend/index.html
