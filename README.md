@@ -45,8 +45,7 @@ Linear Regression achieved the best predictive performance, while XGBoost was ad
 
 ## Dashboard Preview
 
-[Open Interactive Dashboard](study%20hub%20cafe%20big%20data%20analytics/images/studyhub_dashboard.html)
-
+![Dashboard](study%20hub%20cafe%20big%20data%20analytics/images/dashboard.jpeg)
 ## Author
 Khathija Dudekula
 
