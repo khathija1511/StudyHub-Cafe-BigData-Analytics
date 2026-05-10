@@ -57,3 +57,6 @@ MIT License
 - Login Interface
 - Booking System UI
 - Analytics Dashboard
+- ## Frontend Preview
+
+![Home Page](frontend/home.png)
