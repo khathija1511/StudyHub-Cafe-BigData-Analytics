@@ -51,3 +51,9 @@ Khathija Dudekula
 
 ## License
 MIT License
+## Frontend Features
+
+- Home Page
+- Login Interface
+- Booking System UI
+- Analytics Dashboard
